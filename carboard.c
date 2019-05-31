@@ -8,7 +8,7 @@
 
 int main()
 {
-Menu();
+
 }
 
 void Menu(){
@@ -59,7 +59,7 @@ printf("g: number of the game board to load  \n");
 printf("init <x>,<y>,<direction> \n");
 printf("x: horizontal position of the car on the board (between 0 & 9) \n");
 printf("y: vertical position of the car on the board (between 0 & 9) \n");
-printf("direction: direction of the car¡¯s movement (north, east, south, west) \n");
+printf("direction: direction of the carÂ¡Â¯s movement (north, east, south, west) \n");
 printf("forward (or f)  \n");
 printf("turn_left (or l)  \n");
 printf("turn_right (or r)  \n");
